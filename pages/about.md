@@ -9,7 +9,6 @@ credits: true
 ---
 
 {% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
-
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
 # Yōkai Senjafuda: Stories about Ghosts and Monsters
@@ -36,7 +35,7 @@ These are the digital collections used to making the digital exhibit.
 >
 >Henry Smith has examined Starr's scholarly interest in Japan in detail, noting Starr's consistent attention to the religious dimension of culture—clearly visible in senjafuda, as this exhibition shows. Smith also notes that Starr's interest in “the social matrices in which these objects came to be collected, depicted, and exchanged in…distinctive subcultures of modern Japan” gives his work value in a contemporary context as well. But Starr had an eye for phenomena that appealed to a playful as well as a scholarly bent. When asked by a reporter for a Japanese newspaper what his interests were, he reeled off a list that began with kappa and tengu. It's no wonder, then, that yōkai are well represented in his senjafuda collection.
 
-2. The Shōbundō collection
+### 2. The Shōbundō collection
 
 These are categories of ghosts and monsters that are found in the digital exhibit.
 - Kappas
