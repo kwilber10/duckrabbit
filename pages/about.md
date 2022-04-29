@@ -27,7 +27,7 @@ Yōkai simply means “monster,” but it’s best understood as referring speci
 ![Two-unit votive slip with double black border. Kabuki scene with young female dancing. Flames on kimono and falling around her. Decorative fan shapes at top with ren mark patterns and black text.](https://oregondigital.org/downloads/oregondigital:df728t07k "Two-unit votive slip with double black border. Kabuki scene with young female dancing. Flames on kimono and falling around her. Decorative fan shapes at top with ren mark patterns and black text.")
 
 These are the digital collections used to making the digital exhibit.
-1. The Star Collection
+### 1. The Star Collection
 
 >Frederick Starr (1858-1933) was an American anthropologist at the University of Chicago who visited Japan frequently between 1904 and 1933. His primary interest during his stays in Japan was the social networks of collectors who were focused on objects associated with the early modern era, particularly collectors of traditional toys and senjafuda. Starr, his traveling companion Manuel Gonzales, and his interpreter Maebashi Hanzan were prominent fixtures at numerous senjafuda exchange meetings in the early 20th century, and Starr became so associated with the senjafuda scene that the press gave him the nickname “Professor Votive Slip” (Ofuda hakushi). Starr also wrote a short book about the history of senjafuda that was published in English in 1917 as The Nosatsu Kai and in Japanese (in a translation and adaptation by Fujisato Kōko) as Nōsatsu shi in 1921.
 >
